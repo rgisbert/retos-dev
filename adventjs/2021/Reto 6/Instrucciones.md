@@ -18,11 +18,10 @@ sumPairs([6, 7, 1, 2], 8) // [6, 2]
 sumPairs([0, 2, 2, 3, -1, 1, 5], 6) // [1, 5]
 ```
 
-El *resultado* tiene que ser **un array con dos números**.
+El _resultado_ tiene que ser **un array con dos números**.
 
 Una vez que tengas el resultado... ¿cómo podrías hacer que fuese lo más óptimo posible para **no tener que recorrer las mismas situaciones dos veces** 🤔?
 
-
 ## Original
 
-Enlace al [Reto 6](https://github.com/rgisbert/retos-dev/tree/main/adventjs/2021).
+Enlace al [Reto 6](https://adventjs.dev/challenges/06).
